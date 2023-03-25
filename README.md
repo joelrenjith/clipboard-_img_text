@@ -24,7 +24,7 @@ Assuming you have python already set up
 
     `pip install pillow`   
     
-</br>
+
 
   `pip install pytesseract `
   
