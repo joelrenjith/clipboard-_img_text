@@ -21,8 +21,7 @@ Assuming you have python already set up
  
  
 ## Libraries:
-
-    `pip install pillow`   
+  
     
 
 
@@ -32,3 +31,10 @@ Assuming you have python already set up
 <br/>
    
   `pip install pyperclip`
+
+
+
+
+<br/>
+
+  `pip install pillow`
