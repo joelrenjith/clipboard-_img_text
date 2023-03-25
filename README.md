@@ -12,7 +12,7 @@ Some uses for this tool is to copy documentation if present in an image.
 
 ## Setup
 
-Assuming you have python already set up
+Please set up python and pip before proceeding to the following steps
 
 ### Dependencies:
   We will be using the Tesseract OCR to extract text from images. <br/>
