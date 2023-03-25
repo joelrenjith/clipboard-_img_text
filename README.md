@@ -21,14 +21,14 @@ Assuming you have python already set up
  
  
 ## Libraries:
-    `pip install pillow` 
+    `pip install pillow`    <br/>
     
     
     
-    `pip install pytesseract ` 
+    `pip install pytesseract ` <br/>
     
     
     
     
-    `pip install pyperclip`
+    `pip install pyperclip`   <br/>
     
