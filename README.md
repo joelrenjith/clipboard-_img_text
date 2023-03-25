@@ -14,13 +14,16 @@ Some uses for this tool is to copy documentation if present in an image.
 
 Assuming you have python already set up
 
-###Dependencies:
+### Dependencies:
   We will be using the Tesseract OCR to extract text from images.
+  '''
   [download](https://digi.bib.uni-mannheim.de/tesseract/) the latest version and set up Tesseract
  
  
-##Libraries:
+## Libraries:
     `pip install pillow`
+    '''
     `pip install pytesseract `
+    '''
     `pip install pyperclip`
     
