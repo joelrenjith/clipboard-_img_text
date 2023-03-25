@@ -20,7 +20,7 @@ Please set up python and pip before proceeding to the following steps
   [download](https://digi.bib.uni-mannheim.de/tesseract/) the latest version and set up Tesseract
  
  
-## Libraries:
+### Libraries:
   
     
 
