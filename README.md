@@ -22,7 +22,7 @@ Assuming you have python already set up
  
 ## Libraries:
 
-    `pip install pillow`    
+    `pip install pillow`   
     
 </br>
 
