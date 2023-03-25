@@ -10,7 +10,7 @@ Run the tool. The text from the image will be extracted and will be copied onto 
 Some uses for this tool is to copy documentation if present in an image.
 
 
-##Setup
+## Setup
 
 Assuming you have python already set up
 
@@ -21,14 +21,13 @@ Assuming you have python already set up
  
  
 ## Libraries:
-    `pip install pillow`    <br/>
+    `pip install pillow`    
     
-    
-    
-    `pip install pytesseract ` <br/>
-    
-    
-    
-    
-    `pip install pyperclip`   <br/>
-    
+</br>
+
+  `pip install pytesseract `
+  
+  
+<br/>
+   
+  `pip install pyperclip`
