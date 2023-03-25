@@ -8,3 +8,19 @@ You take a screenshot of the image on the screen with the text, then it will get
 Run the tool. The text from the image will be extracted and will be copied onto your clipboard.
 
 Some uses for this tool is to copy documentation if present in an image.
+
+
+##Setup
+
+Assuming you have python already set up
+
+###Dependencies:
+  We will be using the Tesseract OCR to extract text from images.
+  [download](https://digi.bib.uni-mannheim.de/tesseract/) the latest version and set up Tesseract
+ 
+ 
+##Libraries:
+    `pip install pillow`
+    `pip install pytesseract `
+    `pip install pyperclip`
+    
