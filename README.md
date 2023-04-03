@@ -38,3 +38,8 @@ Please set up python and pip before proceeding to the following steps
 <br/>
 
   `pip install pillow`
+
+
+<br/>
+  
+  `pip install win11toast`
