@@ -1,4 +1,4 @@
-#! C:\\Users\\joelr\\AppData\\Local\\Programs\\Python\\Python310\\pythonw.exe
+#! <enter python path>
 from PIL import Image,ImageGrab
 from pytesseract import pytesseract
 import pyperclip
