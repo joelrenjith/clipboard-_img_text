@@ -1,5 +1,5 @@
 # clipboard_img_text
-A tool which takes in an image in your clipboard and copies the text in the image back to your clipboard
+A tool which takes in an image in your clipboard and copies the text in the image back to your clipboard. Status shown using toaster notiications.
 
 Suppose you want to copy text (for example: some code) from a source. But the text is within an image.
 Hence you won't be able to copy the text from that image.
